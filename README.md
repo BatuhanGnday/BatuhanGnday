@@ -7,15 +7,11 @@
 - 📱 Publishing indie apps with subscription models using **RevenueCat** & **Firebase**  
 - 🧠 Passionate about clean architecture, modular design, and real-world problem solving  
 
----
-
 ## 🌐 Online Presence
 
 - 🖥️ Website: [**batuhangun.day**](https://batuhangun.day)  
 - 💼 LinkedIn: [**linkedin.com/in/batuhan-gunday**](https://www.linkedin.com/in/batuhangnday/)  
 - 📩 Email: [**me@batuhangun.day**](mailto:me@batuhangun.day)
-
----
 
 ## 🔧 Tech Stack
 
