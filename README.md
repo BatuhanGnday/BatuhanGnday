@@ -19,10 +19,10 @@
 
 ## 🔧 Tech Stack
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)  
-![UIKit](https://img.shields.io/badge/-UIKit-000000?logo=apple&logoColor=white&style=flat)  
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-2C2C2E?logo=swift&logoColor=white&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)  
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat) 
+![UIKit](https://img.shields.io/badge/-UIKit-000000?logo=apple&logoColor=white&style=flat) 
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-2C2C2E?logo=swift&logoColor=white&style=flat) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 <!--
